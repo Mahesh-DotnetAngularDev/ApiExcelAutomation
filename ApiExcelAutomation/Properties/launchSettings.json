@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ApiExcelAutomation": {
+      "commandName": "Project",
+      "commandLineArgs": "api"
+    }
+  }
+}
